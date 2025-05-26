@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///project/sandbox/user-workspace/src/components/animations.tsx"],"sourcesContent":["\"use client\"\n\nexport default function Animations() {\n  return (\n    <style jsx global>{`\n      @keyframes fadeIn {\n        from { opacity: 0; }\n        to { opacity: 1; }\n      }\n      @keyframes fadeInUp {\n        from {\n          opacity: 0;\n          transform: translateY(20px);\n        }\n        to {\n          opacity: 1;\n          transform: translateY(0);\n        }\n      }\n      .animate-fade-in {\n        animation: fadeIn 1s ease-out;\n      }\n      .animate-fade-in-up {\n        animation: fadeInUp 1s ease-out;\n      }\n    `}</style>\n  )\n}\n"],"names":[],"mappings":";;;;;AAAA;;;AAEe,SAAS;IACtB;;;;AAwBF;KAzBwB","debugId":null}}]
+}
