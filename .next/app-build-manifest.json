@@ -1,12 +1,12 @@
 {
   "pages": {
     "/page": [
-      "static/chunks/[root-of-the-server]__f236daff._.css",
+      "static/chunks/[root-of-the-server]__9fb95a00._.css",
       "static/chunks/node_modules_ff8745d3._.js",
       "static/chunks/src_components_animations_tsx_394eeb4f._.js",
       "static/chunks/src_app_layout_tsx_c0237562._.js",
-      "static/chunks/src_components_contact-info_tsx_9c9784de._.js",
-      "static/chunks/src_app_page_tsx_b048f311._.js",
+      "static/chunks/src_components_1f337e27._.js",
+      "static/chunks/src_app_page_tsx_269b02f8._.js",
       "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_fd44f5a4._.js",
       "static/chunks/node_modules_next_dist_compiled_2ce9398a._.js",
       "static/chunks/node_modules_next_dist_client_8f19e6fb._.js",
